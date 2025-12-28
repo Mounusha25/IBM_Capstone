@@ -1,2 +1,0 @@
-Question: How can you add marking objects such as circles, markers, or lines on a Folium map? (Click all choices that apply) (2 pts)
-
